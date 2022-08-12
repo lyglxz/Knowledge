@@ -7,4 +7,4 @@
     + --system: machine ---> **/etc/gitconfig**   or  **C:\ProgramData\Git\config**
 + git config alias
 ## common solution
-
+tse
